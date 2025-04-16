@@ -414,6 +414,14 @@ class LanguagesGC {
         'rejectBtnText': 'Rejeitar',
         'manageText': 'Gerenciar cookies'
       },
+      pt_PT: {
+        'bannerHeading': 'Utilização de cookies',
+        'bannerDescription': 'Utilizamos cookies próprios e de terceiros para personalizar o conteúdo e analisar o tráfego da web.',
+        'bannerLinkText': 'Saiba mais sobre os cookies',
+        'acceptBtnText': 'Aceitar cookies',
+        'rejectBtnText': 'Rejeitar',
+        'manageText': 'Gerir cookies'
+      },
       ru: {
         'bannerHeading': 'Позвольте использовать куки?',
         'bannerDescription': 'Мы используем собственные и сторонние куки для персонализации контента и анализа веб-трафика.',
