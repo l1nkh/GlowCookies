@@ -37,6 +37,7 @@ Set style in config object `glowCookies.start('en', { style: 3 })`
 Now you can choose between these available languages:
 - Afrikaans (`af`)
 - Brazilian portugese (`pt_BR`)
+- European portugese (`pt_PT`)
 - Bulgarian (`bg`)
 - Catalan (`ca`)
 - Chinese Simple (`zh`)
